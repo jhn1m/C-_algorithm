@@ -4,7 +4,7 @@ namespace Baekjoon
 {
 	public class main 
 	{
-		public static void Main() 
+		public static void Main()  
 		{
 			int a, b;
 			
